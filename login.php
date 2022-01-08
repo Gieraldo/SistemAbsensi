@@ -16,7 +16,7 @@
 <body>
   <!-- main -->
   <div class="main-w3layouts wrapper">
-    <h1>Login Adminn</h1>
+    <h1>Login Adminnn</h1>
     <div class="main-agileinfo">
       <div class="agileits-top">
         <form action="proses_login.php" method="post">
