@@ -24,7 +24,7 @@
       <nav class="navbar navbar-expand-lg navbar-light">
         <div class="container box_1620">
           <!-- Brand and toggle get grouped for better mobile display -->
-          <a class="navbar-brand logo_h" href="index.html"><img src="img/" alt=""></a>
+          <!-- <a class="navbar-brand logo_h" href="index.html"><img src="img/" alt=""></a> -->
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
@@ -87,7 +87,7 @@
                  
                 </span>
                 <h3 class="card-feature__title">Facebook</h3>
-                <p class="card-feature__subtitle">Muhammad Zibran Fitadiyatama  </p>
+                <p class="card-feature__subtitle">Aldo</p>
               </div>
             </div>
             <div class="col-lg-4">
@@ -96,7 +96,7 @@
                   
                 </span>
                 <h3 class="card-feature__title">Whatsapp</h3>
-                <p class="card-feature__subtitle">0895-6357-29348</p>
+                <p class="card-feature__subtitle">089999</p>
               </div>
             </div>
             <div class="col-lg-4">
@@ -105,7 +105,7 @@
                 
                 </span>
                 <h3 class="card-feature__title">LinkedIn</h3>
-                <p class="card-feature__subtitle">Muhammad Zibran Fitadiyatama</p>
+                <p class="card-feature__subtitle">Aldo</p>
               </div>
             </div>
           </div>
@@ -164,14 +164,9 @@
 			</div>
 			<div class="footer-bottom row align-items-center text-center text-lg-left">
 				<p class="footer-text m-0 col-lg-8 col-md-12"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> Muhamad Zibran Fitadiyatama All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
-				<div class="col-lg-4 col-md-12 text-center text-lg-right footer-social">
-					<a href="https://www.facebook.com/zibran.vitadiyatama.7/" target="_blank"><i class="fab fa-facebook-f"></i></a>
-					<a href="https://github.com/ZibranovSky" target="_blank"><i class="fab fa-github"></i></a>
-					<a href="https://www.linkedin.com/in/muhammad-zibran-fitadiyatama-6550801a9/" target="_blank" ><i class="fab fa-linkedin" target="_blank"></i></a>
-					
-				</div>
+				Copyright &copy;<script>document.write(new Date().getFullYear());</script> Livio Tri Gieraldo All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+				<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+				</p>
 			</div>
 		</div>
 	</footer>
