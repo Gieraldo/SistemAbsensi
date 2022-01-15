@@ -145,31 +145,13 @@
 
 
   <!-- ================ start footer Area ================= -->
-  <footer class="footer-area section-gap">
-		<div class="container">
-			<div class="row">
-				<div class="col-xl-2 col-sm-6 mb-4 mb-xl-0 single-footer-widget">
-					
-				</div>
-				<div class="col-xl-4 col-md-8 mb-4 mb-xl-0 single-footer-widget">
-				
-							<div style="position: absolute; left: -5000px;">
-								<input name="b_36c4fd991d266f23781ded980_aefe40901a" tabindex="-1" value="" type="text">
-							</div>
-
-							<div class="info"></div>
-						</form>
-					</div>
-				</div>
-			</div>
-			<div class="footer-bottom row align-items-center text-center text-lg-center">
-				<p class="footer-text m-0 col-lg-8 col-md-12"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-				Copyright &copy;<script>document.write(new Date().getFullYear());</script> Livio Tri Gieraldo All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-				<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-				</p>
-			</div>
-		</div>
-	</footer>
+ <footer class="sticky-footer bg-white">
+        <div class="container my-auto">
+          <div class="copyright text-center my-auto">
+            <span>Copyright &copy; Livio Tri Gieraldo  <?= date('Y'); ?> </span>
+          </div>
+        </div>
+      </footer>
   <!-- ================ End footer Area ================= -->
 
   <script src="vendors/jquery/jquery-3.2.1.min.js"></script>
