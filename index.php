@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Sistem Informasi Karyawan - Home</title>
-	<link rel="icon" href="img/Fevicon.png" type="image/png">
+	<!-- <link rel="icon" href="img/Fevicon.png" type="image/png"> -->
 
   <link rel="stylesheet" href="vendors/bootstrap/bootstrap.min.css">
   <link rel="stylesheet" href="vendors/fontawesome/css/all.min.css">
@@ -162,7 +162,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="footer-bottom row align-items-center text-center text-lg-left">
+			<div class="footer-bottom row align-items-center text-center text-lg-center">
 				<p class="footer-text m-0 col-lg-8 col-md-12"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 				Copyright &copy;<script>document.write(new Date().getFullYear());</script> Livio Tri Gieraldo All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
 				<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
